@@ -1,0 +1,2 @@
+car=com.alibaba.dubbo.demo.provider.spi.CarMarker
+rece=com.alibaba.dubbo.demo.provider.spi.ReceMarker
